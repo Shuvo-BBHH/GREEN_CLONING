@@ -13,10 +13,10 @@ pip2 install mechanize
 
 pip2 install bs4
 
-rm -rf /GREEN_CLONING
+rm -rf GREEN_CLONING
 
-git clone https://github.com/Shuvo-BBHH//GREEN_CLONING
+git clone https://github.com/Shuvo-BBHH/GREEN_CLONING
 
-cd /GREEN_CLONING
+cd GREEN_CLONING
 
 python Mahdi.py
